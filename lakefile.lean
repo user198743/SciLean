@@ -26,6 +26,10 @@ lean_exe HarmonicOscillator {
   root := `examples.HarmonicOscillator
 }
 
+lean_exe LennardJones {
+  root := `examples.LennardJones
+}
+
 lean_exe CircleOptimisation {
   root := `examples.CircleOptimisation
 }
